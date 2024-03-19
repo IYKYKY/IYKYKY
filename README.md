@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @IYKYKY
 - 👀 I’m interested in Machine Learning, Data-driven programming.
 - 🌱 I’m currently learning business analytics @ NUS School of Computing
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I've decided to build an orbital project this summer.
+- 📫 How to reach me CONFIDENTIAL
 - 😄 Pronouns: Call me Jadon.
 - ⚡ Fun fact: Regarding the degree I'm pursuing, business is a scam :')
 
